@@ -62,7 +62,7 @@
 * [Artisan控制台](artisan_console.md)
    * [Artisan 命令行](artisan.md)
    * [任务调度](scheduling.md)
-* [测试](测试.md)
+* [测试](test_group.md)
    * [快速入门](testing.md)
    * [应用程序测试](application-testing.md)
    * [数据库测试](database-testing.md)
