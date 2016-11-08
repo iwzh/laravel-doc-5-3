@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [目录](SUMMARY.md)
-* [说明](readme.md)
+* [说明](readmemd.md)
    * [翻译说明](about.md)
    * [发行说明](releases.md)
    * [升级说明](upgrade.md)
