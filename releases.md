@@ -272,7 +272,7 @@ API 相关的路由在 `RouteServiceProvider` 中指定了自动添加 `api` 前
             This is the last iteration.
         @endif
 
-        <p>This is user {{ $user->id }}</p>
+        <p>This is user {{ $user['id'] }}</p>
     @endforeach
 
 更多信息请查看 [Blade 文档](/docs/5.3/blade#the-loop-variable).
