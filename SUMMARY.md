@@ -1,7 +1,6 @@
 # Summary
 
 * [说明](README.md)
-* [Introduction](readmemd.md)
 * [说明](shuo_660e_md.md)
    * [翻译说明](about.md)
    * [发行说明](releases.md)
