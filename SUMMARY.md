@@ -73,7 +73,7 @@
    * [Passport OAuth 认证](passpor.md)
    * [Scout 全文搜索](scout.md)
    * [Socialite 社交化登录](socialite.md)
-* [附录](附录.md)
+* [附录](fu_lu.md)
    * [集合](collections.md)
    * [辅助函数](helpers.md)
    * [扩展包开发](packages.md)
