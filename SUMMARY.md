@@ -7,7 +7,7 @@
    * [发行说明](releases.md)
    * [升级说明](upgrade.md)
    * [贡献导引](contributions.md)
-* [入门指南](入门指南.md)
+* [入门指南](ru_men_zhi_5357_md.md)
    * [安装](installation.md)
    * [配置信息](configuration.md)
    * [文件夹结构](structure.md)
