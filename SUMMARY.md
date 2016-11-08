@@ -28,7 +28,7 @@
    * [视图](views.md)
    * [Blade模板](blade.md)
    * [本地化](localization.md)
-* [Javascript与CSS](Javascript与CSS.md)
+* [Javascript与CSS](javascript_css.md)
    * [入门指南](frontend.md)
    * [laravel-elixir](elixir.md)
 * [安全](安全.md)
