@@ -59,7 +59,7 @@
    * [Eloquent集合](eloquent-collections.md)
    * [修改器](eloquent-mutators.md)
    * [序列化](eloquent-serialization.md)
-* [Artisan控制台](Artisan控制台.md)
+* [Artisan控制台](artisan_console.md)
    * [Artisan 命令行](artisan.md)
    * [任务调度](scheduling.md)
 * [测试](测试.md)
