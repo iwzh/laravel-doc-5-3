@@ -24,7 +24,7 @@
    * [响应](responses.md)
    * [Session](session.md)
    * [表单验证](validation.md)
-* [视图与模板](视图与模板.md)
+* [视图与模板](shi_tu_mo_ban.md)
    * [视图](views.md)
    * [Blade模板](blade.md)
    * [本地化](localization.md)
