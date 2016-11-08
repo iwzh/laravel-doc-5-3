@@ -53,7 +53,7 @@
    * [数据库迁移](migrations.md)
    * [数据填充](seeding.md)
    * [redis](redis.md)
-* [Eloquent ORM](Eloquent ORM.md)
+* [Eloquent ORM](eloquent_orm.md)
    * [快速入门](eloquent.md)
    * [模型关联](eloquent-relationships.md)
    * [Eloquent集合](eloquent-collections.md)
