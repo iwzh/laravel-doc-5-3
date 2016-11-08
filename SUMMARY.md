@@ -10,7 +10,7 @@
 * [开发环境](kai_fa_huan_5883_md.md)
    * [HomeStead](HomeStead.md)
    * [Valet](Valet.md)
-* [核心概念](核心概念.md)
+* [核心概念](he_xin_gai_5ff5_md.md)
    * [服务容器](container.md)
    * [服务提供者](providers.md)
    * [门面（facades）](facades.md)
