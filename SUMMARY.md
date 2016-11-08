@@ -46,7 +46,7 @@
    * [邮件发送](mail.md)
    * [消息通知](notifications.md)
    * [队列](queues.md)
-* [数据库](数据库.md)
+* [数据库](shu_ju_ku.md)
    * [快速入门](database.md)
    * [查询构造器](queries.md)
    * [分页](pagination.md)
