@@ -67,7 +67,7 @@
    * [应用程序测试](application-testing.md)
    * [数据库测试](database-testing.md)
    * [模拟器](mocking.md)
-* [官方扩展包](官方扩展包.md)
+* [官方扩展包](guan_fang_kuo_zhan.md)
    * [Cashier交易包](billing.md)
    * [Envoy 部署工具](envoy.md)
    * [Passport OAuth 认证](passpor.md)
