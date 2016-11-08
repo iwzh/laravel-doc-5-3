@@ -1,0 +1,9 @@
+{
+    "title": "laravel 5.3 中文文档",
+    "description": "laravel框架5.3的中文文档 翻译权归larave-china.org所有。 本人整理仅供学习交流所用。",
+    "language": "zh",
+    "direction": "ltr",
+    "plugins": [
+        "highlight"
+    ]
+}
