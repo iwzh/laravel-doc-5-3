@@ -12,7 +12,7 @@
    * [配置信息](configuration.md)
    * [文件夹结构](structure.md)
    * [错误与日志](errors.md)
-* [开发环境](开发环境.md)
+* [开发环境](kai_fa_huan_5883_md.md)
    * [HomeStead](HomeStead.md)
    * [Valet](Valet.md)
 * [核心概念](核心概念.md)
